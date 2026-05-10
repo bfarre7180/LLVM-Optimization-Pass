@@ -51,7 +51,9 @@ This project aims to bridge:
 through direct interaction with LLVM internals.
 
 ## Core Goals
+
 ###Goal 1 - Learn LLVM Architecture
+
 Understand:
 
 - LLVM IR
