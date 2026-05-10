@@ -1,2 +1,3 @@
-# LLVM-Optimization-Pass
-This project uses compiler infrastructure to create optimization passes.
+# Project Goal
+
+Create an LLVM pass that optimizes memory accesses in compiled programs.
