@@ -84,7 +84,7 @@ Potential optimizations:
 - Common subexpression elimination
 - Peephole optimizations
 
-###Goal 4 — Develop Static Analysis Tooling
+### Goal 4 — Develop Static Analysis Tooling
 
 Potential analyses:
 
